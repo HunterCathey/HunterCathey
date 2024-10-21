@@ -4,6 +4,13 @@
 
 - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
+<h2> 📜 Certifications</h2>
+
+- [CompTIA Security+](https://github.com/user-attachments/files/17458985/CompTIA.Security%2B.ce.certificate.1.pdf)
+- [CompTIA A+](https://github.com/user-attachments/files/17459002/CompTIA.A%2B.ce.certificate.pdf)
+- [ITF+](https://github.com/user-attachments/files/17459012/ITF%2B.pdf)
+- [Microsoft Office Specialist](https://github.com/user-attachments/files/17459013/Microsoft.Office.Specialist.pdf)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
