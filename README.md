@@ -1,4 +1,5 @@
 <h1>Hi, I'm Hunter! </h1>
+<a href="https://linkedin.com/in/huntercathey"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <h2>Projects I'm working on:</h2>
 
