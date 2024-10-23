@@ -5,6 +5,8 @@
 
 - [EDR Home Lab:Attack & Defend](https://github.com/HunterCathey/EDR-Home-Lab-Attack-Defense)
   - [REF](https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro)
+- [Elastic SIEM Lab](https://github.com/HunterCathey/Elastic-SIEM-Lab)
+  - [REF](https://www.youtube.com/watch?v=2XLzMb9oZBI)
  
 <h1>Certifications</h1>
 
