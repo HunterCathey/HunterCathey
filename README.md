@@ -11,14 +11,6 @@
 - [A+](https://github.com/HunterCathey/HunterCathey/blob/main/CompTIA%20A%2B%20ce%20certificate.pdf)
 - [Microsoft Office](https://github.com/HunterCathey/HunterCathey/blob/main/Microsoft%20Office%20Specialist.pdf)
 
-<h2> Connect with me:</h2>
-
-
-[<img align="left" alt="huntercathey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/huntercathey
-
-
 <!---
 HunterCathey/HunterCathey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
