@@ -1,31 +1,17 @@
 <h1>Hi, I'm Hunter! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>Projects I'm working on:</h2>
 
 - [EDR Home Lab:Attack & Defend](https://github.com/HunterCathey/EDR-Home-Lab-Attack-Defense)
-
-<h2> 📜 Certifications</h2>
-
-- [CompTIA Security+](https://github.com/user-attachments/files/17458985/CompTIA.Security%2B.ce.certificate.1.pdf)
-- [CompTIA A+](https://github.com/user-attachments/files/17459002/CompTIA.A%2B.ce.certificate.pdf)
-- [Microsoft Office Specialist](https://github.com/user-attachments/files/17459013/Microsoft.Office.Specialist.pdf)
+  - [REF](https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro)
 
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+<h2> Connect with me:</h2>
 
 
-<h2> 🤳 Connect with me:</h2>
+[<img align="left" alt="huntercathey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/c/
-[instagram]: https://www.instagram.com//
 [linkedin]: https://linkedin.com/in/huntercathey
 
 
