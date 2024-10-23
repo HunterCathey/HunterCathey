@@ -16,7 +16,7 @@
 
 <h1>Certifications</h1>
 
-[![comptia-security-ce-certification](https://github.com/user-attachments/assets/38e9a702-7d5d-421b-8d6b-f0d310923d3b)](https://github.com/user-attachments/files/17488020/CompTIA.Security%2B.ce.certificate.pdf)
+[![comptia-security-ce-certification](https://github.com/user-attachments/assets/38e9a702-7d5d-421b-8d6b-f0d310923d3b)]<a href="pdfs/SEC+.pdf" class="image fit"><img src="images/SEC+.jpg" alt=""></a>
 ![comptia-a-ce-certification 1](https://github.com/user-attachments/assets/46d920d6-267b-4e4c-8a74-8b8c47681ebf)
 ![microsoft-office-specialist-associate-office-2019](https://github.com/user-attachments/assets/3c2baac7-82d6-471e-9bd0-e25b0b3f6f23)
 
